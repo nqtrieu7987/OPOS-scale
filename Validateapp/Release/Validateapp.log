@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol _main
+C:\Users\mcsof\OneDrive\Desktop\Desktop\atl_msr_so 2019\Release\Validateapp.exe : fatal error LNK1120: 1 unresolved externals

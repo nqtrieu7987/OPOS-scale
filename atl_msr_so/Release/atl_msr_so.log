@@ -1,0 +1,2 @@
+﻿midl : command line error MIDL2338: switches are contradictory  -no_robust vs. -target
+midl : command line error MIDL1024: Errors on command line--Aborting
